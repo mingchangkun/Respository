@@ -1,2 +1,2 @@
 # Respository
-this is where the code document is stored
+这是存放资料的地方
